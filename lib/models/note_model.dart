@@ -1,5 +1,3 @@
-// ignore_for_file: file_names
-
 import 'package:hive/hive.dart';
 
 part 'note_model.g.dart';
