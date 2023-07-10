@@ -13,5 +13,6 @@ class NotesCubit extends Cubit<NotesState> {
   NotesCubit() : super(NotesInitial());
   fatchAllNotes() async {
     notes = Hive.box<NoteModel>(kNotesBox).values.toList();
+    emit(NotesNotesSuccess());
   }
 }
