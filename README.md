@@ -33,7 +33,7 @@ Follow these steps to get a local copy up and running.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/mohammedzom/notes_app.git](https://github.com/mohammedzom/notes_app.git)
+    git clone https://github.com/mohammedzom/notes_app.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
@@ -60,4 +60,5 @@ The project is organized for scalability:
 ---
 
 Developed with ❤️ using Flutter.
+
 
